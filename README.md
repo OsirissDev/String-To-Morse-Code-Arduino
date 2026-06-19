@@ -5,6 +5,7 @@ Only one function so I didnt make it into a library, copy-paste the code into yo
 
 Example:
 Serial.begin(115200);
+
 Serial.println(toMorse("Hello world"));
 
 Output: .... . .-.. .-.. --- / .-- --- .-. .-.. -.. 
